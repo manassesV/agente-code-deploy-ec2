@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c16ebaa5-91a6-443c-aced-15a8bebb1b88": {
+      "ProjectGuid": "c16ebaa5-91a6-443c-aced-15a8bebb1b88",
+      "DisplayName": "api-code-deploy",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
